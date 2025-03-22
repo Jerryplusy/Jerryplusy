@@ -12,9 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true" align=right />
 </picture>
 
-Hi, I'm Jerry, a freelance developer with a year and a half of experience in front-end and back-end development. I specialize in Node.js, C/C++, and modern front-end technologies, and I love building applications that are highly useful and performant.
+Hi, this is Jerry, a freelance developer with a year and a half of experience in both front-end and back-end development. He specializes in Node.js, C/C++, and modern front-end technologies, and he enjoys building highly useful and performant applications.
 
-As a high school student, I am still on the road to programming, and I plan to learn python and learn mainstream front-end frameworks such as NextJS and Vue in two and a half years.
+As a high school student, Jerry is still on his programming journey. He plans to learn Python and master mainstream front-end frameworks such as Next.js and Vue within the next two and a half years.
 ---
 
 ## 🛠️ Tech Stack
