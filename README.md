@@ -34,6 +34,7 @@ As a high school student, Jerry is still on his programming journey. He plans to
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
 
 ### **DevOps & Tools**
