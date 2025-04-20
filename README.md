@@ -14,7 +14,7 @@
 
 Hi, this is Jerry, a freelance developer with a year and a half of experience in both front-end and back-end development. He specializes in Node.js, C/C++, and modern front-end technologies, and he enjoys building highly useful and performant applications.
 
-As a high school student, Jerry is still on his programming journey. He plans to learn Python and master mainstream front-end frameworks such as Next.js and Vue within the next two and a half years.
+As a high school student, Jerry is still on his programming journey. He plans to learn Python and master mainstream front-end frameworks such as Next.js and React within the next two and a half years.
 ---
 
 ## 🛠️ Tech Stack
@@ -62,9 +62,3 @@ As a high school student, Jerry is still on his programming journey. He plans to
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:JerryTech.Y@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jerryplusy)
-
----
-
-## 💡 Fact
-
-I hated Windous's UI, but I had to use it. 😭
