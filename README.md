@@ -52,9 +52,9 @@ As a high school student, Jerry is still on his programming journey. He plans to
 
 ## 📊 Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jerryplusy&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jerryplusy&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerryplusy&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerryplusy&layout=compact&hide_border=true)
 
 ---
 
