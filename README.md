@@ -14,10 +14,14 @@
 
 Hi, this is Jerry, a freelance developer with a year and a half of experience in both front-end and back-end development. He specializes in Node.js, C/C++, and modern front-end technologies, and he enjoys building highly useful and performant applications.
 
-As a high school student, Jerry is still on his programming journey. He plans to learn Python and master mainstream front-end frameworks such as Next.js and React within the next two and a half years.
+Jerry's Plan: 
+- Python
+- Next.js
+- React
+- ...
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 ### **Frontend/Web Development**
 <p>
