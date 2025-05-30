@@ -1,4 +1,4 @@
-# Jerry 🧑🏻‍💻
+# Jerry
 
 <picture>
   <source
@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true" align=right />
 </picture>
 
-Hi, this is Jerry, a freelance developer with a year and a half of experience in both front-end and back-end development. He specializes in Node.js, C/C++, and modern front-end technologies, and he enjoys building highly useful and performant applications.
+Hi, this is Jerry, an ordinary high school student.
 
 Jerry's Plan: 
 - Python
