@@ -19,7 +19,7 @@ Jerry's Plan:
 - Next.js
 - React
 - TS
-- ...
+- ..
 ---
 
 ## 🛠️ Stack
