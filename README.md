@@ -65,8 +65,8 @@ Jerry's Plan:
 
 ## 📫 Connect with Me
 
-- [emali](mailto:JerryTech.Y@outlook.com)
+- [emali](mailto:Jerryplusy@outlook.com)
 - [gtihub](https://github.com/Jerryplusy)
+- [gitea](https://git.crystelf.top/Jerry)
 - [lab](https://lab.crystelf.top/@Jerry)
 - [blog](https://jerry.crystelf.top)
-- [crystelf](https://crystelf.top)
