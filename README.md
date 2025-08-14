@@ -18,6 +18,7 @@ Jerry's Plan:
 - Python
 - Next.js
 - React
+- Nest.js
 - TS
 - ..
 ---
