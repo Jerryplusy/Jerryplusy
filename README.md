@@ -14,15 +14,6 @@
 
 Hi, this is Jerry, an ordinary high school student.
 
-Jerry's Plan: 
-- Python
-- Next.js
-- React
-- Nest.js
-- TS
-- ..
----
-
 ## 🛠️ Stack
 
 ### **Frontend/Web Development**
@@ -71,3 +62,7 @@ Jerry's Plan:
 - [gitea](https://git.crystelf.top/Jerry)
 - [lab](https://lab.crystelf.top/@Jerry)
 - [blog](https://jerry.crystelf.top)
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Jerryplusy&color=blue" alt="Profile views" />
+</div>
