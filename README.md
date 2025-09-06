@@ -1,20 +1,20 @@
 # Jerry
 
+Hi, this is Jerry, an ordinary high school student.
+
+## Stack
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=586069&icon_color=0366d6&card_width=350"
+    media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jerryplusy&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350" align=right />
 </picture>
-
-Hi, this is Jerry, an ordinary high school student.
-
-## 🛠️ Stack
 
 ### **Frontend/Web Development**
 <p>
@@ -45,17 +45,26 @@ Hi, this is Jerry, an ordinary high school student.
   <img alt="CLion" src="https://img.shields.io/badge/-CLion-F05032?style=flat-square&logo=clion&logoColor=white" />
 </p>
 
----
+<hr>
 
-## 📊 Stats
+## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jerryplusy&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Jerryplusy&theme=cobalt&hide_border=true&card_width=380" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlusy&theme=cobalt&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlusy&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlusy&hide_border=true" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlusy)
+<hr>
 
----
-
-## 📫 Connect with Me
+## Connect with Me
 
 - [emali](mailto:Jerryplusy@outlook.com)
 - [gtihub](https://github.com/Jerryplusy)
