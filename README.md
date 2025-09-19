@@ -1,6 +1,6 @@
 # Jerry
 
-Hi, this is Jerry, an ordinary high school student.
+Hi, this is Jerry, an ordinary high school student ;]
 
 ## Stack
 
