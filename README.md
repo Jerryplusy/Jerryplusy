@@ -64,8 +64,8 @@ Hi, this is Jerry, an ordinary high school student ;]
 
 ## Connect with Me
 
-- [emali](mailto:Jerryplusy@outlook.com)
-- [gtihub](https://github.com/Jerryplusy)
+- [email](mailto:Jerryplusy@outlook.com)
+- [github](https://github.com/Jerryplusy)
 - [gitea](https://git.crystelf.top/Jerry)
 - [lab](https://lab.crystelf.top/@Jerry)
 - [blog](https://jerry.crystelf.top)
