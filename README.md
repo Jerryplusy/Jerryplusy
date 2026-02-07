@@ -18,7 +18,7 @@ export default jerry;
 
 ## Stats
 
-<img https://stats.dogxi.me/api/?user=Jerryplusy&theme=cobalt&hide_border=true&card_width=380" />
+<img https://stats.dogxi.me/api/?username=Jerryplusy&theme=cobalt&hide_border=true&card_width=380" />
 <picture>
   <source
     srcset="https://stats.dogxi.me/api/top-langs/?username=JerryPlusy&theme=cobalt&hide_border=true"
