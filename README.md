@@ -18,17 +18,17 @@ export default jerry;
 
 ## Stats
 
-<img src="https://streak-stats.demolab.com/?user=Jerryplusy&theme=cobalt&hide_border=true&card_width=380" />
+<img https://stats.dogxi.me/api/?user=Jerryplusy&theme=cobalt&hide_border=true&card_width=380" />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlusy&theme=cobalt&hide_border=true"
+    srcset="https://stats.dogxi.me/api/top-langs/?username=JerryPlusy&theme=cobalt&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlusy&hide_border=true"
+    srcset="https://stats.dogxi.me/api/top-langs/?username=JerryPlusy&hide_border=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryPlusy&hide_border=true" />
+  <img src="https://stats.dogxi.me/api/top-langs/?username=JerryPlusy&hide_border=true" />
 </picture>
 
 <hr>
