@@ -33,6 +33,8 @@ export default jerry;
 
 <hr>
 
+<img src="https://ghchart.rshah.org/659eb9/Jerryplusy" />
+
 ## Connect with Me
 
 - [email](mailto:Jerryplusy@outlook.com)
