@@ -41,7 +41,7 @@ export default jerry;
 - [github](https://github.com/Jerryplusy)
 - [gitea](https://git.crystelf.top/Jerry)
 - [lab](https://lab.crystelf.top/@Jerry)
-- [blog](https://jerry.crystelf.top)
+- [blog](https://jerryplusy.ink)
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Jerryplusy&color=blue" alt="Profile views" />
