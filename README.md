@@ -1,19 +1,9 @@
 # Jerry
 
-Hi, this is Jerry, an ordinary high school student ;]
+Hi, this is Jerry, an ordinary high school student :)
 
-```typescript
-let jerry = {
-  name: "Jerry",
-  role: "Student",
-  skills: {
-    frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-    backend:  ["Node.js", "NestJS", "Redis", "C++ (OI)"],
-    tools:    ["Linux", "Git", "WebStorm", "CLion"]
-  }
-};
-export default jerry;
-```
+I love Typescript & PJSK w !
+
 <hr>
 
 ## Stats
@@ -39,8 +29,6 @@ export default jerry;
 
 - [email](mailto:Jerryplusy@outlook.com)
 - [github](https://github.com/Jerryplusy)
-- [gitea](https://git.crystelf.top/Jerry)
-- [lab](https://lab.crystelf.top/@Jerry)
 - [blog](https://jerryplusy.ink)
 
 <div align="right">
