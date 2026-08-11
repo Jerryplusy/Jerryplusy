@@ -1,6 +1,6 @@
 # Jerry
 
-Hi, this is Jerry, an ordinary high school student :)
+Hi, this is Jerry, a high school student :)
 
 I love Typescript & PJSK w !
 
