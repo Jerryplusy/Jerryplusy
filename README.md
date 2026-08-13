@@ -2,7 +2,7 @@
 
 Hi, this is Jerry, a high school student :)
 
-I love Typescript & PJSK w !
+I love Minecraft & PJSK w !
 
 <hr>
 
