@@ -1,6 +1,6 @@
 # Jerry
 
-Hi, this is Jerry, a high school student :)
+Hi, this is Jerry, a high school student O.o
 
 I love Minecraft & PJSK w !
 
